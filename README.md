@@ -1,15 +1,19 @@
 # vin_talk
 
-## Video demo: 
+## Video demo:
 
+<div>
     <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/mwLRiAkULN0"
-        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-        </iframe>
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/mwLRiAkULN0"
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    </iframe>
+</div>
 
-[Link youtube](https://youtu.be/yzyUt1iMMpg "Everything Is AWESOME")
+[![Watch the video](https://img.youtube.com/vi/yzyUt1iMMpg/hqdefault.
+jpg)]
+(https://youtu.be/yzyUt1iMMpg)
 
 # Summary
 
@@ -29,8 +33,8 @@ II. Sự nghiệp cá nhân: Tiền = số lượng giá trị bạn trao cho th
 Ba lô vào đời + kiến thức cứng, kiến thức mềm, vi tính và ngoại ngữ
 các nghề kiếm tiền front, back office ==> hướng nội ==> back office ==> trong những nghề từng làm => thích đọc, code kiếm nhiều tiền hơn
 
-triết lý(xác suất) +  tâm lý <= sinh lý 
-sách = đường dài +  tầm nhìn , kỹ năng mềm = vấn đề 
+triết lý(xác suất) +  tâm lý <= sinh lý
+sách = đường dài +  tầm nhìn , kỹ năng mềm = vấn đề
 sách =  tác giả
 Giỏi =  để tâm +  tích hũy => tử tế + chăm chỉ
 Ví dụ: Trung Quốc: 9-9-6, jim rohn: 6 + 1
