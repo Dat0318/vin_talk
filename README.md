@@ -2,8 +2,7 @@
 
 ## Video demo:
 
-[![Watch the video](https://img.youtube.com/vi/yzyUt1iMMpg/hqdefault.
-jpg)](https://youtu.be/yzyUt1iMMpg)
+[![Watch the video](https://img.youtube.com/vi/yzyUt1iMMpg/hqdefault.jpg)](https://youtu.be/yzyUt1iMMpg)
 
 # Summary
 
